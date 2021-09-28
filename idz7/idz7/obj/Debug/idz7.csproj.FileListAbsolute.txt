@@ -1,0 +1,10 @@
+C:\Users\федор\Desktop\Git\idz7\idz7\idz7\bin\Debug\idz7.exe.config
+C:\Users\федор\Desktop\Git\idz7\idz7\idz7\bin\Debug\idz7.exe
+C:\Users\федор\Desktop\Git\idz7\idz7\idz7\bin\Debug\idz7.pdb
+C:\Users\федор\Desktop\Git\idz7\idz7\idz7\obj\Debug\idz7.csprojAssemblyReference.cache
+C:\Users\федор\Desktop\Git\idz7\idz7\idz7\obj\Debug\idz7.Form1.resources
+C:\Users\федор\Desktop\Git\idz7\idz7\idz7\obj\Debug\idz7.Properties.Resources.resources
+C:\Users\федор\Desktop\Git\idz7\idz7\idz7\obj\Debug\idz7.csproj.GenerateResource.cache
+C:\Users\федор\Desktop\Git\idz7\idz7\idz7\obj\Debug\idz7.csproj.CoreCompileInputs.cache
+C:\Users\федор\Desktop\Git\idz7\idz7\idz7\obj\Debug\idz7.exe
+C:\Users\федор\Desktop\Git\idz7\idz7\idz7\obj\Debug\idz7.pdb
